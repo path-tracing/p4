@@ -33,11 +33,11 @@ Several operators have shown strong interest in Path Tracing. Some operators are
 
 ## Standardization 
 
-The Path Tracing solution is currently being standardized in the SPRING WG at IETF. Please refer to the [Path Tracing IETF draft] (https://datatracker.ietf.org/doc/draft-filsfils-spring-path-tracing/) for more details. 
+The Path Tracing solution is currently being standardized in the SPRING WG at IETF. Please refer to the [Path Tracing IETF draft](https://datatracker.ietf.org/doc/draft-filsfils-spring-path-tracing/) for more details. 
 
 ## Tutorials  
 
-Tutorials, Demos, and more details on Path Tracing can be found on the [segment routing website] (https://www.segment-routing.net/path-tracing). 
+Tutorials, Demos, and more details on Path Tracing can be found on the [segment routing website](https://www.segment-routing.net/path-tracing). 
 
 
 ## P4 Implementation
